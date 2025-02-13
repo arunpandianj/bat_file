@@ -1,2 +1,2 @@
 @echo off
-echo Hello, World! from Jenkins Pipeline
+echo Hello World! from Jenkins Pipeline
