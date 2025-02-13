@@ -1,2 +1,2 @@
 @echo off
-echo 'Welcome to GitHub-webhook pipeline'
+echo 'Welcome to GitHub-webhook'
